@@ -3,18 +3,17 @@ Praktikum Basis Data: PostgreSQL Transactions &amp; ACID properties. Includes se
 
 _Praktikum Basis Data: Transaksi dan properti ACID di PostgreSQL. Termasuk skrip setup, eksperimen dua sesi, dan isolasi transaksi._
 
-> Struktur Repository
-1. Setup
+# Struktur Repository
+> Setup
 - transaksi_acid_setup.sql
-2. Experiment
+> Experiment
 - transaksi_acid_postgresql.sql
 
 
-> Setup Database
-
+# Setup Database
 File `transaksi_acid_setup.sql` berisi struktur dan data awal untuk schema `lab_simple` yang digunakan dalam praktikum ini.
 
-> Cara Menjalankan:
+# Cara Menjalankan:
 1. Buka DBeaver atau pgAdmin.
 2. Jalankan file `transaksi_acid_setup.sql` di SQL Console.
 3. Pastikan schema `lab_simple` dan tabel berikut sudah tersedia:
@@ -30,14 +29,14 @@ File `transaksi_acid_setup.sql` berisi struktur dan data awal untuk schema `lab_
 6. Amati hasil di kedua sesi.
 7. Jawab pertanyaan praktikum di file `answers.md`.
 
-> Hasil
+# Hasil
 - Memahami konsep *ACID* dalam transaksi basis data.
 - Mempelajari perintah `BEGIN`, `COMMIT`, `ROLLBACK`, dan `SAVEPOINT`.
 - Mengamati efek isolation level: **READ COMMITTED**, **REPEATABLE READ**, **SERIALIZABLE**.
 - Melatih penggunaan multi-session untuk melihat efek isolasi.
 
-> Referensi
+# Referensi
 - Modul Praktikum Basis Data IPB Semester Ganjil 2025/2026
 
-> Kontributor
+# Kontributor
 - Dzulfikar Najib (M0401241043) - IPB Statistika dan Sains Data
