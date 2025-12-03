@@ -6,7 +6,7 @@ _Praktikum Basis Data: Transaksi dan properti ACID di PostgreSQL. Termasuk skrip
 > Struktur Repository
 > Setup
 - transaksi_acid_setup.sql
->> Experiment
+> Experiment
 
 
 > Setup Database
