@@ -8,7 +8,7 @@ _Praktikum Basis Data: Transaksi dan properti ACID di PostgreSQL. Termasuk skrip
 - transaksi_acid_setup.sql
 > Experiment
 - transaksi_acid_postgresql.sql
-
+> Readme.md
 
 # Setup Database
 File `transaksi_acid_setup.sql` berisi struktur dan data awal untuk schema `lab_simple` yang digunakan dalam praktikum ini.
