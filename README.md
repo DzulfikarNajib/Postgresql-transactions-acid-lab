@@ -4,9 +4,9 @@ Praktikum Basis Data: PostgreSQL Transactions &amp; ACID properties. Includes se
 _Praktikum Basis Data: Transaksi dan properti ACID di PostgreSQL. Termasuk skrip setup, eksperimen dua sesi, dan isolasi transaksi._
 
 > Struktur Repository
-> Setup
+1. Setup
 - transaksi_acid_setup.sql
-> Experiment
+2. Experiment
 - transaksi_acid_postgresql.sql
 
 
