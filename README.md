@@ -34,9 +34,3 @@ File `transaksi_acid_setup.sql` berisi struktur dan data awal untuk schema `lab_
 - Mempelajari perintah `BEGIN`, `COMMIT`, `ROLLBACK`, dan `SAVEPOINT`.
 - Mengamati efek isolation level: **READ COMMITTED**, **REPEATABLE READ**, **SERIALIZABLE**.
 - Melatih penggunaan multi-session untuk melihat efek isolasi.
-
-# Referensi
-- Modul Praktikum Basis Data IPB Semester Ganjil 2025/2026
-
-# Kontributor
-- Dzulfikar Najib (M0401241043) - IPB Statistika dan Sains Data
